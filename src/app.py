@@ -1,5 +1,4 @@
 import dash
-from urllib.request import urlopen
 from dash import html, dcc
 import dash_bootstrap_components as dbc 
 from dash.dependencies import Input, Output, ClientsideFunction
@@ -7,8 +6,6 @@ import plotly.express as px
 import numpy as np
 import pandas as pd
 import altair as alt
-import io
-import pathlib
 
 external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
