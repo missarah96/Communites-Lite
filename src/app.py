@@ -145,11 +145,7 @@ def update_figure(state, column):
     global FACTOR_1
     # Define the map figure
     filtered_df = df
-    zoom = 3
-    center = {
-        'lat': 37,
-        'lon': 180+80
-    }
+    
     if state != 'All' and state is not None:
         filtered_df = df[
             (df["state"] == state)
@@ -168,7 +164,8 @@ def update_figure(state, column):
                         color=column,
                         color_continuous_scale=[(0, 'darkblue'), (1,'lightblue')],
                         size=column,
-                        zoom=3, 
+                        zoom=3,
+                        center={"lat": 44, "lon": -95},
                         height=800,
                         width=800,
                             labels={
