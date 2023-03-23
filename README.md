@@ -2,12 +2,9 @@
 
 # Index
 ------------------------------------------------------------------------
-
-# Index
-
 -   [Welcome](#Welcome!)
 -   [Motivation](#Motivation)
--   [Dashboard Usage](#Dashboard_Usage)
+-   [Dashboard Usage](#Dashboard-Usage)
 -   [Running Locally](#Running-Locally)
 -   [Contributing](#Contributing)
 -   [License](#License)
@@ -89,11 +86,8 @@ Please refer to our license file [here](LICENSE.md).
 
 -   Sarah Abdelazim
 
-<!-- #endregion -->
-
-
 ## Reference
 
 The data set can be found [here](https://archive.ics.uci.edu/ml/datasets/communities+and+crime). For more information on US crime rates, you can visit the [FBI Crime Report](https://ucr.fbi.gov/crime-in-the-u.s).
-
+<!-- #endregion -->
 
