@@ -18,7 +18,7 @@ To get an overview of the project, read the [README](README). To contribute with
 
 You can contribute to our project in many way! Here are just a few examples of things we're looking for:
 
--   [Issues](https://github.com/UBC-MDS/pokemon-type-predictor/issues): if there are any problems with our code or documents, we want to know about it! Open an issue and we'll get right on it.
+-   [Issues](https://github.com/UBC-MDS/communities_dash/issues): if there are any problems with our code or documents, we want to know about it! Open an issue and we'll get right on it.
 -   [Forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests): the best way to make suggestions to our code!
 
 ### Issues
